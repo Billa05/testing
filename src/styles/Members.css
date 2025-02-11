@@ -1,0 +1,24 @@
+/* Members.css */
+.MembersMain {
+    background-color: #03070b;
+    color: white;
+    /* font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif; */
+    min-height: 100vh;
+    padding: 20px;
+    
+}
+  
+.HeadingMem {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fff;
+}
+  
+.MembersDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
